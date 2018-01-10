@@ -1,0 +1,8 @@
+.BackgroundPattern{
+
+    background:url("./img/bg-pattern.png"), linear-gradient(to left, #f3b70e, #f47613 );
+    }
+
+.Logo{
+    margin-top: 85px;
+}
